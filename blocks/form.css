@@ -28,7 +28,7 @@
     margin-bottom: 32px;
     }
 
-    .form__input:placeholder {
+    .form__input::placeholder {
       font-size: 20px;
       line-height: 30px;
       color: #838383;
@@ -61,6 +61,7 @@
       display: flex;
       justify-content: center;
       gap: 12px;
+      margin: 0;
     }
     
     .form__checkbox {
