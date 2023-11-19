@@ -27,7 +27,7 @@
     .header__description {
      max-width: 683px;
      font-size: 20px;
-     font-family: "Noto Serif";
+     font-family: "Noto Serif", "Time New Roman", serif;
      font-style: normal;
      font-weight: normal;
      line-height: 30px;
