@@ -36,4 +36,4 @@ Use CSS gradients, shadows, or other visual effects to add depth and visual inte
 
 
 
-----> Link https://samtab2.github.io/se_project_coffeeshop/#about
+----> Link https://samtab2.github.io/se_project_coffeeshop/
